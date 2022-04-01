@@ -45,8 +45,8 @@ for i in range(10000):
     print(m)
 print(m,c)
 y_pred=m*x+c
-plt.scatter(x,y,color="red")
-plt.plot(x,y_pred)
+plt.scatter(x,y,color="black")
+plt.plot(x,y_pred,color="red")
 plt.xlabel("Study hours")
 plt.ylabel("Scores")
 plt.title("Study hours vs Scores")
