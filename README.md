@@ -16,11 +16,10 @@ To write a program to implement the linear regression using gradient descent.
 ### 6.Plot the graph respect to hours and scores using scatter plot function.
 
 ## Program:
-```
-/*
-Program to implement the linear regression using gradient descent.
-Developed by: M.Hariharan
-RegisterNumber:  212221230034
+~~~
+# Program to implement the linear regression using gradient descent.
+# Developed by: Syed Abdul Wasih H
+# RegisterNumber:  212221240057
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -54,15 +53,12 @@ plt.title("Study hours vs Scores")
 plt.plot(loss)
 plt.xlabel("iteration")
 plt.ylabel("loss")
-*/
-```
+~~~
 
 ## Output:
-![linear regression using gradient descent](0.jpg)
-![linear regression using gradient descent](1.jpg)
-![linear regression using gradient descent](2.jpg)
-![linear regression using gradient descent](3.jpg)
 
+![output](1.jpg)
+![output](2.jpg)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
