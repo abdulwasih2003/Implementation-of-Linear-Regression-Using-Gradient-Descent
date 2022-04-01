@@ -56,8 +56,8 @@ plt.ylabel("loss")
 ~~~
 
 ## Output:
-![Output](1.png)
-![Output](2.png)
+![Output](./img/1.png)
+![Output](./img/2.png)
 
 
 ## Result:
